@@ -1771,3 +1771,23 @@ a:focus {
         text-align: center;
     }
 }
+
+.whatsapp {
+    display: block;
+    position: fixed;
+    padding: 2em;
+    z-index: 20;
+    top: 75%;
+    text-align: center;
+    float: right;
+    right: 5px;
+    -webkit-transition-timing-function: linear;
+            transition-timing-function: linear;
+    -webkit-transition-duration: 2s;
+            transition-duration: 2s;
+  }
+  
+  .whatsapp :hover {
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+  }
