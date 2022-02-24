@@ -1643,7 +1643,7 @@ a:focus {
 /*******************************/
 .footer {
     position: relative;
-    margin-top: 45px;
+    margin-top: 5px;
     padding-top: 60px;
     background: #294545;
     color: #ffffff;
@@ -1756,7 +1756,7 @@ a:focus {
 
 .footer .copyright p a {
     color: #aa9166;
-    font-weight: 500;
+    font-weight: 100;
     letter-spacing: 1px;
 }
 
