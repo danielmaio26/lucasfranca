@@ -1644,7 +1644,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 5px;
-    padding-top: 60px;
+    padding-top: 5px;
     background: #294545;
     color: #ffffff;
 }
@@ -1653,7 +1653,7 @@ a:focus {
 .footer .footer-link,
 .footer .footer-contact {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 30px;
     color: #999999;
 }
 
@@ -1694,6 +1694,7 @@ a:focus {
 .footer .footer-social {
     position: relative;
     margin-top: 20px;
+    text-align: center;
 }
 
 .footer .footer-social a {
